@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -16,7 +16,18 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Welcome to Beti Village Web Portal//Selamat Datang di Web Portal Desa Beti
+        </a> */}
+        <p>
+        Welcome to Beti Village Web Portal // Selamat Datang di Web Portal Desa Beti
+        </p>
+        <a
+          className="App-link"
+          href="https://www.youtube.com/watch?v=KoKasREFBYY"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Welcome to Beti Village Web Portal//Selamat Datang di Web Portal Desa Beti
         </a>
       </header>
     </div>
