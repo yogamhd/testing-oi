@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <img src={logo} className="App-logo" alt="logo" />
+        {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -20,7 +20,7 @@ function App() {
         </a> */}
         <p>
         Welcome to Beti Village Web Portal // Selamat Datang di Web Portal Desa Beti
-        </p>
+        </p> 
         <a
           className="App-link"
           href="https://www.youtube.com/watch?v=KoKasREFBYY"
